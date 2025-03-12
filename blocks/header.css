@@ -57,9 +57,6 @@
     font-size: 16px;
   }
 
-  br {
-    display: none;
-  }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1280px) {
@@ -69,7 +66,4 @@
     line-height: 1;
   }
 
-  br {
-    display: none;
-  }
 }

@@ -1,6 +1,5 @@
 .history {
   max-width: 830px;
-  align-items: left;
   text-align: left;
   font-size: 24px;
   position: relative;
@@ -57,10 +56,6 @@
 
   .history__title {
     font-size: 45px;
-  }
-
-  .history__text br {
-    display: none;
   }
 
   .history__footer {
