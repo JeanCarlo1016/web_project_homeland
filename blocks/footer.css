@@ -1,8 +1,8 @@
 .footer {
-  margin: 92px 0 24px;
+  height: 100%;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
 }
 
 .footer_text {
