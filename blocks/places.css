@@ -8,6 +8,7 @@
 
 .places__container {
   max-width: 1000px;
+  height: 1000px;
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   grid-template-rows: 120px repeat(3, 1fr) 50px;
@@ -130,7 +131,7 @@
 
   .places__container {
     max-width: 320px;
-    max-height: 1300px;
+    height: 1200px;
     grid-template-columns: 100%;
     grid-template-rows: repeat(5, 1fr) 50px;
     grid-gap: 10px 0;
