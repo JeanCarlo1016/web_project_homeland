@@ -4,4 +4,3 @@ La pagina se divide en History, gallery, pages y footer
 Hecho por Jean Carlo Cabrera 
 Cualquier inquietud con el proyecto puede contactarme al siguiente numero: +57 3105220247
 URL: https://jeancarlo1016.github.io/web_project_homeland/
-NOTA: No sé, pero cuando la publico en git pages los estilos no cargan 
